@@ -17,7 +17,7 @@ l1 = Label(master, text='t0')
 l1.grid(row=2, column=0, sticky='e')
 l2 = Label(master, text='t1')
 l2.grid(row=3, column=0, sticky='e')
-l3 = Label(master, text = 'Выберете цвет синусоиды')
+l3 = Label(master, text = 'Выберите цвет синусоиды')
 l3.grid(row=1, column=1, sticky='e')
 
 e1 = Entry(master)
